@@ -6,20 +6,27 @@ body {
     
 }
 
-#intro {
-    text-align: center;
-    color: white;
+#intro img{
+    display: block; 
+    height: 100vh;
+    width: 100%;
 }
 
 
 
 
 .profile img {
-    display: block; 
-    float:right;
-    height: 100vh;
-    width: 50%;
   
 
 }
+
+.info p {
+    color:white;
+    font-style: italic;
+    text-align: center;
+    font-size: 28px;
+    
+    
+}
+
 
