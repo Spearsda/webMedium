@@ -79,6 +79,18 @@ body {
 }
 
 
+.button {
+    color: white;
+    border: none;
+    padding: 17px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+  }
+
 
 
 /* ----------------------photography_page---------------------*/
@@ -184,6 +196,7 @@ body {
     font-weight: bold;
     color:white;
 }
+
 
 
 
