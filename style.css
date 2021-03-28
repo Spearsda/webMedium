@@ -46,8 +46,8 @@ body {
 
 
 .linkout{
-
-    background:tomato;
+background-image: url("sweater_leggings.jpg");
+    height: 20%;
     max-width: 900px;
     width: 70vw;
 
@@ -56,6 +56,26 @@ body {
 
     padding-left: 30px;
     padding-right: 30px;
+}
+
+.skills{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+
+.skills a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 23px;
+    font-weight: bold;
+    color: purple;
+
 }
 
 
@@ -68,12 +88,6 @@ body {
 
 }
 
-
-.skills{
-    text-align:center;
-    color:white;
-    font-size:23px;
-    */
 
 
 
