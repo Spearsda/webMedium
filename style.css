@@ -1,12 +1,12 @@
 body {
     background: black;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     
     
 }
 
-#intro img{
+.centerpiece img{
     display: block; 
     max-width: 1150px;
     width: 80vw;
@@ -45,24 +45,22 @@ body {
 }
 
 
+.linkout{
 
-.lftSide, .rigtSide {
+    background:tomato;
+    max-width: 900px;
+    width: 70vw;
 
-    height:80vh;
-    width:50%;
-  
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
-.lftSide {
-    background: grey;
-    
-}
 
-.rigtSide {
-    background:hotpink
-}
 
-.rigtSide img {
+/*.rigtSide img {
     display: flex;
     float:right;
     max-height: 600px;
@@ -70,9 +68,27 @@ body {
 
 }
 
-/*
+
 .skills{
     text-align:center;
     color:white;
     font-size:23px;
     */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
