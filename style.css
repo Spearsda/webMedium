@@ -46,7 +46,6 @@ body {
 
 
 .linkout{
-    background-image: url("/images/sunset-sky.JPG");
     height: 20%;
     max-width: 900px;
     width: 70vw;
@@ -79,11 +78,18 @@ body {
 }
 
 
-.contact {
+.contact, .insta {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    /*visibility: hidden;*/
+    
+}
+
+.contact {
+
     padding-top: 75px;
+
 }
 
 .insert img {
@@ -94,6 +100,16 @@ body {
 .insert p {
     color: white;
 }
+
+.insta {
+    text-decoration: none;
+    font-weight: bold;
+    color: orange;
+}
+
+
+
+
 
 
 .button {
