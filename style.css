@@ -79,6 +79,23 @@ body {
 }
 
 
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.insert img {
+    width: 60px;
+    height: 60px;
+}
+
+.insert p {
+    color: white;
+}
+
+
 .button {
     color: white;
     border: none;
